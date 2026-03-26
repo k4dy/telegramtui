@@ -1,0 +1,17 @@
+target/
+dependency-reduced-pom.xml
+
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+.DS_Store
+Thumbs.db
+
+*.log
+.tdlib/
+.env
+config.properties
